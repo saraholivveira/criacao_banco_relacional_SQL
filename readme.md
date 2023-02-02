@@ -1,4 +1,4 @@
-#Criação de Banco de Dados, Inserção de Dados e Execução de Queries em SQL.
+# Criação de Banco de Dados, Inserção de Dados e Execução de Queries em SQL.
 
 Esse foi um projeto acadêmico feito para as matérias de Data Lab, Database Essentials e Programming Database da FIAP. O exercício tem como objetivo a criação de um sistema de gerenciamento de vídeos para uma plataforma de e-commerce chamada "Melhores Compras". Os softwares utilizados foram o Oracle SQL Data Modeler e o Oracle SQL Developer. Todos os dados aqui inseridos são fictícios, e não correspondem a clientes reais.<br>
 <br>
